@@ -1,0 +1,26 @@
+{
+    "usuarios":[
+        {
+            "id":1,
+            "nome": "Pedro Sono",
+            "email": "Pedro@Sono.com",
+            "senha": "123456"
+        },
+
+        {
+            "id":2,
+            "nome": "Marcos onibus",
+            "email": "Marcos@onibus.com",
+            "senha": "654321"
+        }
+    ],
+    "produtos":[
+        {
+            "id":1,
+            "nome": "clipes",
+            "descricao": "de papel, tamanho grande",
+            "validade": "2024-12-31",
+            "valor": 15.69
+        }
+    ]
+}
